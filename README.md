@@ -1,6 +1,6 @@
 # Welcome to Perfect Company Code Repository
 
-![Perfect Company Logo](logo.png)
+<img src="logo.png" alt="PerfectCompany Logo" width="200" height="200">
 
 Hello fellow developers! This repository contains the source code and related resources for projects developed by Perfect Company's programming team.
 
