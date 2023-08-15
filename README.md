@@ -13,7 +13,7 @@ At Perfect Company, we are passionate about creating high-quality software solut
 
 1. Clone this repository: `git clone https://github.com/perfectcompany/code-repo.git`
 2. Navigate to specific project folders for detailed instructions.
-3. Reach out for help: If you encounter any issues or have questions, feel free to contact our development team at info@perfectcompany.az (mailto:info@perfectcompany.az ).
+3. Reach out for help: If you encounter any issues or have questions, feel free to contact our development team at [devsupport@perfectcompany.az](mailto:devsupport@perfectcompany.az).
 
 ## Contributing
 
@@ -26,8 +26,9 @@ We welcome contributions from the developer community! If you'd like to contribu
 
 ## Contact
 
-- Website: https://www.perfectcompany.az (https://www.perfectcompany.az)
-- Developer Support: [info@perfectcompany.az](mailto:info@perfectcompany.az)
+- Website: [https://www.perfectcompany.az](https://www.perfectcompany.az)
+- Developer Support: [devsupport@perfectcompany.az](mailto:devsupport@perfectcompany.az)
+
 
 ---
 © 2017 Perfect Company Programming Team. All code is released under the MIT License.
